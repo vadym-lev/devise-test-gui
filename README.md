@@ -1,4 +1,4 @@
-# levkivskyi-v-ajax-test-gui
+# devise-test-gui
 
 ## Description
 
